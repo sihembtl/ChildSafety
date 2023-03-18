@@ -15,5 +15,5 @@ The platform solve the parents problems , so they are the primarly users of this
  Using this new native technology the application can be used everywhere and offer more mobility especially with the chlidren and the new generation , for this reason we prefered to work with this technology
  
  ## Backend Using Django
- 
+ We used Django For the development of our database API , multiples packages were used we can find them 
  ## AI Detection
