@@ -9,3 +9,11 @@ The new virtual World Is emerging and growing in unprecedented speed togother wi
  ## Global Presentation Of the Application
  
 The platform solve the parents problems , so they are the primarly users of this app where they can monitor the experience of their children with this new digital world , where they can protect them from innapropriate content, cyber bullying 
+
+ ## Frontend Using Flutter 
+ 
+ Using this new native technology the application can be used everywhere and offer more mobility especially with the chlidren and the new generation , for this reason we prefered to work with this technology
+ 
+ ## Backend Using Django
+ 
+ ## AI Detection
